@@ -14,7 +14,8 @@
     "keywords": [
         "nodejs",
         "autenticacao",
-        "backend"
+        "backend",
+        "gateway"
     ],
     "author": "max hiroito",
     "license": "ISC",
