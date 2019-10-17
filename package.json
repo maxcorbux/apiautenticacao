@@ -1,0 +1,31 @@
+{
+    "name": "api",
+    "version": "0.0.1",
+    "description": "api autenticacao em node",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/maxhiroito2/apiautenticacao.git"
+    },
+    "keywords": [
+        "nodejs",
+        "autenticacao",
+        "backend"
+    ],
+    "author": "max hiroito",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/maxhiroito2/apiautenticacao/issues"
+    },
+    "homepage": "https://github.com/maxhiroito2/apiautenticacao#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "eslint": "^6.5.1"
+    }
+}
